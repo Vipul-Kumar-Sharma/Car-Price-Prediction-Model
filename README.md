@@ -10,6 +10,7 @@ The Project was given a form of Website where we use Linear Regression Model to 
 predictions.
 
 **LICENSE**
+
 This project is open-source and available under the MIT License.
 
 Developed by [Vipul Kumar Sharma]
